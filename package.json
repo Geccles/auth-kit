@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.18.4",
-    "cypress": "^10.0.3",
     "next": "^12.1.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
