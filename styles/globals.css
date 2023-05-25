@@ -33,3 +33,16 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.btn {
+  width: 100%;
+  background-color: hotpink;
+  padding: 1rem .5rem;
+  border-radius: 1rem;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(247, 97, 172);
+}
